@@ -1,0 +1,15 @@
+.swiper-slide {
+    height: 100vh;
+}
+
+.swiper-slide-1 {
+    background-color: rgb(59, 114, 59);
+}
+
+.swiper-slide-2 {
+    background-color: rgb(0, 19, 128);
+}
+
+.swiper-slide-3 {
+    background-color: rgb(124, 0, 128);
+}
