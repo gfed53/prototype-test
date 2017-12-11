@@ -9,7 +9,7 @@
 /*'Pages'*/
 
 .swiper-slide {
-    height: 100vh;
+    /* height: 100vh; */
     width: 100%;
 }
 
@@ -25,13 +25,23 @@
     background-color: #8e44ad;
 }
 
+/*Layout*/
+.grid {
+    padding: 1em;
+}
+
+.section-2 {
+    display: none;
+}
+
 /*Typography*/
 * {
     font-family: 'Open Sans', sans-serif;
+    color: white;
 }
 h1 {
     font-size: 3em;
-    color: white;
+    /* color: white; */
     text-align: center;
-    margin-top: 2em;
+    margin: 2em 0 1em 0;
 }
