@@ -45,3 +45,24 @@ h1 {
     text-align: center;
     margin: 2em 0 1em 0;
 }
+
+/*Button*/
+
+.button-container {
+    margin: 1.5em;
+    text-align: center;
+
+}
+
+.btn-toggle {
+    padding: 0.75em 1.35em;
+    border-radius: 3em;
+    border: none;
+    background-color: #ecf0f1;
+    font-size: 1.2em;
+    box-shadow: 1px 1px 6px rgb(102, 102, 102);
+}
+
+i {
+    color: rgb(15, 15, 15);  
+}
